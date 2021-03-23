@@ -1,0 +1,16 @@
+C:\dev\MVC_Final_Project\Code\Lampshade\ShopManagement.Application\bin\Debug\netcoreapp3.1\ShopManagement.Application.deps.json
+C:\dev\MVC_Final_Project\Code\Lampshade\ShopManagement.Application\bin\Debug\netcoreapp3.1\ShopManagement.Application.dll
+C:\dev\MVC_Final_Project\Code\Lampshade\ShopManagement.Application\bin\Debug\netcoreapp3.1\ShopManagement.Application.pdb
+C:\dev\MVC_Final_Project\Code\Lampshade\ShopManagement.Application\bin\Debug\netcoreapp3.1\0_Framework.dll
+C:\dev\MVC_Final_Project\Code\Lampshade\ShopManagement.Application\bin\Debug\netcoreapp3.1\ShopManagement.Application.Contracts.dll
+C:\dev\MVC_Final_Project\Code\Lampshade\ShopManagement.Application\bin\Debug\netcoreapp3.1\ShopManagement.Domain.dll
+C:\dev\MVC_Final_Project\Code\Lampshade\ShopManagement.Application\bin\Debug\netcoreapp3.1\0_Framework.pdb
+C:\dev\MVC_Final_Project\Code\Lampshade\ShopManagement.Application\bin\Debug\netcoreapp3.1\ShopManagement.Application.Contracts.pdb
+C:\dev\MVC_Final_Project\Code\Lampshade\ShopManagement.Application\bin\Debug\netcoreapp3.1\ShopManagement.Domain.pdb
+C:\dev\MVC_Final_Project\Code\Lampshade\ShopManagement.Application\obj\Debug\netcoreapp3.1\ShopManagement.Application.csprojAssemblyReference.cache
+C:\dev\MVC_Final_Project\Code\Lampshade\ShopManagement.Application\obj\Debug\netcoreapp3.1\ShopManagement.Application.AssemblyInfoInputs.cache
+C:\dev\MVC_Final_Project\Code\Lampshade\ShopManagement.Application\obj\Debug\netcoreapp3.1\ShopManagement.Application.AssemblyInfo.cs
+C:\dev\MVC_Final_Project\Code\Lampshade\ShopManagement.Application\obj\Debug\netcoreapp3.1\ShopManagement.Application.csproj.CoreCompileInputs.cache
+C:\dev\MVC_Final_Project\Code\Lampshade\ShopManagement.Application\obj\Debug\netcoreapp3.1\ShopManagement.Application.csproj.CopyComplete
+C:\dev\MVC_Final_Project\Code\Lampshade\ShopManagement.Application\obj\Debug\netcoreapp3.1\ShopManagement.Application.dll
+C:\dev\MVC_Final_Project\Code\Lampshade\ShopManagement.Application\obj\Debug\netcoreapp3.1\ShopManagement.Application.pdb
