@@ -1,4 +1,5 @@
-﻿using _0_Framework.InfraStructure;
+﻿using _0_Framework.Application;
+using _0_Framework.InfraStructure;
 using ShopManagement.Application.Contracts.ProductCategory;
 using ShopManagement.Domain.ProductCategoryAgg;
 using System.Collections.Generic;
@@ -6,7 +7,7 @@ using System.Linq;
 
 namespace ShopManagement.InfraStructure.EFCore.Repository
 {
-    public class ProductCategoryRepository : RepositoryBase<long , ProductCategory>,  IProductCategoryRepository
+    public class ProductCategoryRepository : RepositoryBase<long, ProductCategory>, IProductCategoryRepository
     {
         private readonly ShopContext context;
         public ProductCategoryRepository(ShopContext context) : base(context)
@@ -31,14 +32,23 @@ namespace ShopManagement.InfraStructure.EFCore.Repository
             }).FirstOrDefault(x => x.Id == id);
         }
 
+        public List<ProductCategoryViewModel> GetProductCategories()
+        {
+            return context.ProductCategories.Select(x => new ProductCategoryViewModel
+            {
+                Id = x.Id,
+                Name = x.Name
+            }).ToList();
+        }
+
         public List<ProductCategoryViewModel> Search(ProductCategorySearchModel searchModel)
         {
-            var query =  context.ProductCategories.Select(x => new ProductCategoryViewModel
+            var query = context.ProductCategories.Select(x => new ProductCategoryViewModel
             {
                 Id = x.Id,
                 Name = x.Name,
                 Picture = x.Picture,
-               CreationDate = x.CreationDate.ToString() 
+                CreationDate = x.CreationDate.ToFarsi()
             });
 
             if (!string.IsNullOrWhiteSpace(searchModel.Name))

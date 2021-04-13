@@ -1,0 +1,14 @@
+C:\dev\MVC_Final_Project\Code\Lampshade\DiscountManagement.Application.Contracts\bin\Debug\netcoreapp3.1\DiscountManagement.Application.Contracts.deps.json
+C:\dev\MVC_Final_Project\Code\Lampshade\DiscountManagement.Application.Contracts\bin\Debug\netcoreapp3.1\DiscountManagement.Application.Contracts.dll
+C:\dev\MVC_Final_Project\Code\Lampshade\DiscountManagement.Application.Contracts\bin\Debug\netcoreapp3.1\DiscountManagement.Application.Contracts.pdb
+C:\dev\MVC_Final_Project\Code\Lampshade\DiscountManagement.Application.Contracts\bin\Debug\netcoreapp3.1\0_Framework.dll
+C:\dev\MVC_Final_Project\Code\Lampshade\DiscountManagement.Application.Contracts\bin\Debug\netcoreapp3.1\ShopManagement.Application.Contracts.dll
+C:\dev\MVC_Final_Project\Code\Lampshade\DiscountManagement.Application.Contracts\bin\Debug\netcoreapp3.1\0_Framework.pdb
+C:\dev\MVC_Final_Project\Code\Lampshade\DiscountManagement.Application.Contracts\bin\Debug\netcoreapp3.1\ShopManagement.Application.Contracts.pdb
+C:\dev\MVC_Final_Project\Code\Lampshade\DiscountManagement.Application.Contracts\obj\Debug\netcoreapp3.1\DiscountManagement.Application.Contracts.csprojAssemblyReference.cache
+C:\dev\MVC_Final_Project\Code\Lampshade\DiscountManagement.Application.Contracts\obj\Debug\netcoreapp3.1\DiscountManagement.Application.Contracts.AssemblyInfoInputs.cache
+C:\dev\MVC_Final_Project\Code\Lampshade\DiscountManagement.Application.Contracts\obj\Debug\netcoreapp3.1\DiscountManagement.Application.Contracts.AssemblyInfo.cs
+C:\dev\MVC_Final_Project\Code\Lampshade\DiscountManagement.Application.Contracts\obj\Debug\netcoreapp3.1\DiscountManagement.Application.Contracts.csproj.CoreCompileInputs.cache
+C:\dev\MVC_Final_Project\Code\Lampshade\DiscountManagement.Application.Contracts\obj\Debug\netcoreapp3.1\DiscountManagement.Application.Contracts.csproj.CopyComplete
+C:\dev\MVC_Final_Project\Code\Lampshade\DiscountManagement.Application.Contracts\obj\Debug\netcoreapp3.1\DiscountManagement.Application.Contracts.dll
+C:\dev\MVC_Final_Project\Code\Lampshade\DiscountManagement.Application.Contracts\obj\Debug\netcoreapp3.1\DiscountManagement.Application.Contracts.pdb

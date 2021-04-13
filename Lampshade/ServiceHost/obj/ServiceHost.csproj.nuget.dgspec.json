@@ -4,6 +4,64 @@
     "C:\\dev\\MVC_Final_Project\\Code\\Lampshade\\ServiceHost\\ServiceHost.csproj": {}
   },
   "projects": {
+    "C:\\dev\\MVC_Final_Project\\Code\\Lampshade\\01_LampshadeQuery\\01_LampshadeQuery.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\dev\\MVC_Final_Project\\Code\\Lampshade\\01_LampshadeQuery\\01_LampshadeQuery.csproj",
+        "projectName": "01_LampshadeQuery",
+        "projectPath": "C:\\dev\\MVC_Final_Project\\Code\\Lampshade\\01_LampshadeQuery\\01_LampshadeQuery.csproj",
+        "packagesPath": "C:\\Users\\David\\.nuget\\packages\\",
+        "outputPath": "C:\\dev\\MVC_Final_Project\\Code\\Lampshade\\01_LampshadeQuery\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\David\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\dev\\MVC_Final_Project\\Code\\Lampshade\\ShopManagement.InfraStructure.EFCore\\ShopManagement.InfraStructure.EFCore.csproj": {
+                "projectPath": "C:\\dev\\MVC_Final_Project\\Code\\Lampshade\\ShopManagement.InfraStructure.EFCore\\ShopManagement.InfraStructure.EFCore.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
     "C:\\dev\\MVC_Final_Project\\Code\\Lampshade\\0_Framework\\0_Framework.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -64,6 +122,700 @@
         }
       }
     },
+    "C:\\dev\\MVC_Final_Project\\Code\\Lampshade\\DiscountManagement.Application.Contracts\\DiscountManagement.Application.Contracts.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\dev\\MVC_Final_Project\\Code\\Lampshade\\DiscountManagement.Application.Contracts\\DiscountManagement.Application.Contracts.csproj",
+        "projectName": "DiscountManagement.Application.Contracts",
+        "projectPath": "C:\\dev\\MVC_Final_Project\\Code\\Lampshade\\DiscountManagement.Application.Contracts\\DiscountManagement.Application.Contracts.csproj",
+        "packagesPath": "C:\\Users\\David\\.nuget\\packages\\",
+        "outputPath": "C:\\dev\\MVC_Final_Project\\Code\\Lampshade\\DiscountManagement.Application.Contracts\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\David\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\dev\\MVC_Final_Project\\Code\\Lampshade\\0_Framework\\0_Framework.csproj": {
+                "projectPath": "C:\\dev\\MVC_Final_Project\\Code\\Lampshade\\0_Framework\\0_Framework.csproj"
+              },
+              "C:\\dev\\MVC_Final_Project\\Code\\Lampshade\\ShopManagement.Application.Contracts\\ShopManagement.Application.Contracts.csproj": {
+                "projectPath": "C:\\dev\\MVC_Final_Project\\Code\\Lampshade\\ShopManagement.Application.Contracts\\ShopManagement.Application.Contracts.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\dev\\MVC_Final_Project\\Code\\Lampshade\\DiscountManagement.Application\\DiscountManagement.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\dev\\MVC_Final_Project\\Code\\Lampshade\\DiscountManagement.Application\\DiscountManagement.Application.csproj",
+        "projectName": "DiscountManagement.Application",
+        "projectPath": "C:\\dev\\MVC_Final_Project\\Code\\Lampshade\\DiscountManagement.Application\\DiscountManagement.Application.csproj",
+        "packagesPath": "C:\\Users\\David\\.nuget\\packages\\",
+        "outputPath": "C:\\dev\\MVC_Final_Project\\Code\\Lampshade\\DiscountManagement.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\David\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\dev\\MVC_Final_Project\\Code\\Lampshade\\0_Framework\\0_Framework.csproj": {
+                "projectPath": "C:\\dev\\MVC_Final_Project\\Code\\Lampshade\\0_Framework\\0_Framework.csproj"
+              },
+              "C:\\dev\\MVC_Final_Project\\Code\\Lampshade\\DiscountManagement.Application.Contracts\\DiscountManagement.Application.Contracts.csproj": {
+                "projectPath": "C:\\dev\\MVC_Final_Project\\Code\\Lampshade\\DiscountManagement.Application.Contracts\\DiscountManagement.Application.Contracts.csproj"
+              },
+              "C:\\dev\\MVC_Final_Project\\Code\\Lampshade\\DiscountManagement.Infrastracture.EFCore\\DiscountManagement.Infrastracture.EFCore.csproj": {
+                "projectPath": "C:\\dev\\MVC_Final_Project\\Code\\Lampshade\\DiscountManagement.Infrastracture.EFCore\\DiscountManagement.Infrastracture.EFCore.csproj"
+              },
+              "C:\\dev\\MVC_Final_Project\\Code\\Lampshade\\DM.Domain\\DM.Domain.csproj": {
+                "projectPath": "C:\\dev\\MVC_Final_Project\\Code\\Lampshade\\DM.Domain\\DM.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\dev\\MVC_Final_Project\\Code\\Lampshade\\DiscountManagement.Configuration\\DiscountManagement.Configuration.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\dev\\MVC_Final_Project\\Code\\Lampshade\\DiscountManagement.Configuration\\DiscountManagement.Configuration.csproj",
+        "projectName": "DiscountManagement.Configuration",
+        "projectPath": "C:\\dev\\MVC_Final_Project\\Code\\Lampshade\\DiscountManagement.Configuration\\DiscountManagement.Configuration.csproj",
+        "packagesPath": "C:\\Users\\David\\.nuget\\packages\\",
+        "outputPath": "C:\\dev\\MVC_Final_Project\\Code\\Lampshade\\DiscountManagement.Configuration\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\David\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\dev\\MVC_Final_Project\\Code\\Lampshade\\DiscountManagement.Application.Contracts\\DiscountManagement.Application.Contracts.csproj": {
+                "projectPath": "C:\\dev\\MVC_Final_Project\\Code\\Lampshade\\DiscountManagement.Application.Contracts\\DiscountManagement.Application.Contracts.csproj"
+              },
+              "C:\\dev\\MVC_Final_Project\\Code\\Lampshade\\DiscountManagement.Application\\DiscountManagement.Application.csproj": {
+                "projectPath": "C:\\dev\\MVC_Final_Project\\Code\\Lampshade\\DiscountManagement.Application\\DiscountManagement.Application.csproj"
+              },
+              "C:\\dev\\MVC_Final_Project\\Code\\Lampshade\\DiscountManagement.Infrastracture.EFCore\\DiscountManagement.Infrastracture.EFCore.csproj": {
+                "projectPath": "C:\\dev\\MVC_Final_Project\\Code\\Lampshade\\DiscountManagement.Infrastracture.EFCore\\DiscountManagement.Infrastracture.EFCore.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.5, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\dev\\MVC_Final_Project\\Code\\Lampshade\\DiscountManagement.Infrastracture.EFCore\\DiscountManagement.Infrastracture.EFCore.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\dev\\MVC_Final_Project\\Code\\Lampshade\\DiscountManagement.Infrastracture.EFCore\\DiscountManagement.Infrastracture.EFCore.csproj",
+        "projectName": "DiscountManagement.Infrastracture.EFCore",
+        "projectPath": "C:\\dev\\MVC_Final_Project\\Code\\Lampshade\\DiscountManagement.Infrastracture.EFCore\\DiscountManagement.Infrastracture.EFCore.csproj",
+        "packagesPath": "C:\\Users\\David\\.nuget\\packages\\",
+        "outputPath": "C:\\dev\\MVC_Final_Project\\Code\\Lampshade\\DiscountManagement.Infrastracture.EFCore\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\David\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\dev\\MVC_Final_Project\\Code\\Lampshade\\0_Framework\\0_Framework.csproj": {
+                "projectPath": "C:\\dev\\MVC_Final_Project\\Code\\Lampshade\\0_Framework\\0_Framework.csproj"
+              },
+              "C:\\dev\\MVC_Final_Project\\Code\\Lampshade\\DM.Domain\\DM.Domain.csproj": {
+                "projectPath": "C:\\dev\\MVC_Final_Project\\Code\\Lampshade\\DM.Domain\\DM.Domain.csproj"
+              },
+              "C:\\dev\\MVC_Final_Project\\Code\\Lampshade\\ShopManagement.InfraStructure.EFCore\\ShopManagement.InfraStructure.EFCore.csproj": {
+                "projectPath": "C:\\dev\\MVC_Final_Project\\Code\\Lampshade\\ShopManagement.InfraStructure.EFCore\\ShopManagement.InfraStructure.EFCore.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\dev\\MVC_Final_Project\\Code\\Lampshade\\DM.Domain\\DM.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\dev\\MVC_Final_Project\\Code\\Lampshade\\DM.Domain\\DM.Domain.csproj",
+        "projectName": "DM.Domain",
+        "projectPath": "C:\\dev\\MVC_Final_Project\\Code\\Lampshade\\DM.Domain\\DM.Domain.csproj",
+        "packagesPath": "C:\\Users\\David\\.nuget\\packages\\",
+        "outputPath": "C:\\dev\\MVC_Final_Project\\Code\\Lampshade\\DM.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\David\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\dev\\MVC_Final_Project\\Code\\Lampshade\\0_Framework\\0_Framework.csproj": {
+                "projectPath": "C:\\dev\\MVC_Final_Project\\Code\\Lampshade\\0_Framework\\0_Framework.csproj"
+              },
+              "C:\\dev\\MVC_Final_Project\\Code\\Lampshade\\DiscountManagement.Application.Contracts\\DiscountManagement.Application.Contracts.csproj": {
+                "projectPath": "C:\\dev\\MVC_Final_Project\\Code\\Lampshade\\DiscountManagement.Application.Contracts\\DiscountManagement.Application.Contracts.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\dev\\MVC_Final_Project\\Code\\Lampshade\\InventoryManagement.Application.Contract\\InventoryManagement.Application.Contract.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\dev\\MVC_Final_Project\\Code\\Lampshade\\InventoryManagement.Application.Contract\\InventoryManagement.Application.Contract.csproj",
+        "projectName": "InventoryManagement.Application.Contract",
+        "projectPath": "C:\\dev\\MVC_Final_Project\\Code\\Lampshade\\InventoryManagement.Application.Contract\\InventoryManagement.Application.Contract.csproj",
+        "packagesPath": "C:\\Users\\David\\.nuget\\packages\\",
+        "outputPath": "C:\\dev\\MVC_Final_Project\\Code\\Lampshade\\InventoryManagement.Application.Contract\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\David\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\dev\\MVC_Final_Project\\Code\\Lampshade\\0_Framework\\0_Framework.csproj": {
+                "projectPath": "C:\\dev\\MVC_Final_Project\\Code\\Lampshade\\0_Framework\\0_Framework.csproj"
+              },
+              "C:\\dev\\MVC_Final_Project\\Code\\Lampshade\\ShopManagement.Application.Contracts\\ShopManagement.Application.Contracts.csproj": {
+                "projectPath": "C:\\dev\\MVC_Final_Project\\Code\\Lampshade\\ShopManagement.Application.Contracts\\ShopManagement.Application.Contracts.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\dev\\MVC_Final_Project\\Code\\Lampshade\\InventoryManagement.Application\\InventoryManagement.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\dev\\MVC_Final_Project\\Code\\Lampshade\\InventoryManagement.Application\\InventoryManagement.Application.csproj",
+        "projectName": "InventoryManagement.Application",
+        "projectPath": "C:\\dev\\MVC_Final_Project\\Code\\Lampshade\\InventoryManagement.Application\\InventoryManagement.Application.csproj",
+        "packagesPath": "C:\\Users\\David\\.nuget\\packages\\",
+        "outputPath": "C:\\dev\\MVC_Final_Project\\Code\\Lampshade\\InventoryManagement.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\David\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\dev\\MVC_Final_Project\\Code\\Lampshade\\0_Framework\\0_Framework.csproj": {
+                "projectPath": "C:\\dev\\MVC_Final_Project\\Code\\Lampshade\\0_Framework\\0_Framework.csproj"
+              },
+              "C:\\dev\\MVC_Final_Project\\Code\\Lampshade\\InventoryManagement.Application.Contract\\InventoryManagement.Application.Contract.csproj": {
+                "projectPath": "C:\\dev\\MVC_Final_Project\\Code\\Lampshade\\InventoryManagement.Application.Contract\\InventoryManagement.Application.Contract.csproj"
+              },
+              "C:\\dev\\MVC_Final_Project\\Code\\Lampshade\\InventoryManagement.Domain\\InventoryManagement.Domain.csproj": {
+                "projectPath": "C:\\dev\\MVC_Final_Project\\Code\\Lampshade\\InventoryManagement.Domain\\InventoryManagement.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\dev\\MVC_Final_Project\\Code\\Lampshade\\InventoryManagement.Domain\\InventoryManagement.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\dev\\MVC_Final_Project\\Code\\Lampshade\\InventoryManagement.Domain\\InventoryManagement.Domain.csproj",
+        "projectName": "InventoryManagement.Domain",
+        "projectPath": "C:\\dev\\MVC_Final_Project\\Code\\Lampshade\\InventoryManagement.Domain\\InventoryManagement.Domain.csproj",
+        "packagesPath": "C:\\Users\\David\\.nuget\\packages\\",
+        "outputPath": "C:\\dev\\MVC_Final_Project\\Code\\Lampshade\\InventoryManagement.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\David\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\dev\\MVC_Final_Project\\Code\\Lampshade\\0_Framework\\0_Framework.csproj": {
+                "projectPath": "C:\\dev\\MVC_Final_Project\\Code\\Lampshade\\0_Framework\\0_Framework.csproj"
+              },
+              "C:\\dev\\MVC_Final_Project\\Code\\Lampshade\\InventoryManagement.Application.Contract\\InventoryManagement.Application.Contract.csproj": {
+                "projectPath": "C:\\dev\\MVC_Final_Project\\Code\\Lampshade\\InventoryManagement.Application.Contract\\InventoryManagement.Application.Contract.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\dev\\MVC_Final_Project\\Code\\Lampshade\\InventoryManagement.Infrastracture.Configure\\InventoryManagement.Infrastracture.Configure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\dev\\MVC_Final_Project\\Code\\Lampshade\\InventoryManagement.Infrastracture.Configure\\InventoryManagement.Infrastracture.Configure.csproj",
+        "projectName": "InventoryManagement.Infrastracture.Configure",
+        "projectPath": "C:\\dev\\MVC_Final_Project\\Code\\Lampshade\\InventoryManagement.Infrastracture.Configure\\InventoryManagement.Infrastracture.Configure.csproj",
+        "packagesPath": "C:\\Users\\David\\.nuget\\packages\\",
+        "outputPath": "C:\\dev\\MVC_Final_Project\\Code\\Lampshade\\InventoryManagement.Infrastracture.Configure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\David\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\dev\\MVC_Final_Project\\Code\\Lampshade\\InventoryManagement.Application.Contract\\InventoryManagement.Application.Contract.csproj": {
+                "projectPath": "C:\\dev\\MVC_Final_Project\\Code\\Lampshade\\InventoryManagement.Application.Contract\\InventoryManagement.Application.Contract.csproj"
+              },
+              "C:\\dev\\MVC_Final_Project\\Code\\Lampshade\\InventoryManagement.Application\\InventoryManagement.Application.csproj": {
+                "projectPath": "C:\\dev\\MVC_Final_Project\\Code\\Lampshade\\InventoryManagement.Application\\InventoryManagement.Application.csproj"
+              },
+              "C:\\dev\\MVC_Final_Project\\Code\\Lampshade\\InventoryManagement.Domain\\InventoryManagement.Domain.csproj": {
+                "projectPath": "C:\\dev\\MVC_Final_Project\\Code\\Lampshade\\InventoryManagement.Domain\\InventoryManagement.Domain.csproj"
+              },
+              "C:\\dev\\MVC_Final_Project\\Code\\Lampshade\\InventoryManagement.Infrastracture.EFCore\\InventoryManagement.Infrastracture.EFCore.csproj": {
+                "projectPath": "C:\\dev\\MVC_Final_Project\\Code\\Lampshade\\InventoryManagement.Infrastracture.EFCore\\InventoryManagement.Infrastracture.EFCore.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.5, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\dev\\MVC_Final_Project\\Code\\Lampshade\\InventoryManagement.Infrastracture.EFCore\\InventoryManagement.Infrastracture.EFCore.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\dev\\MVC_Final_Project\\Code\\Lampshade\\InventoryManagement.Infrastracture.EFCore\\InventoryManagement.Infrastracture.EFCore.csproj",
+        "projectName": "InventoryManagement.Infrastracture.EFCore",
+        "projectPath": "C:\\dev\\MVC_Final_Project\\Code\\Lampshade\\InventoryManagement.Infrastracture.EFCore\\InventoryManagement.Infrastracture.EFCore.csproj",
+        "packagesPath": "C:\\Users\\David\\.nuget\\packages\\",
+        "outputPath": "C:\\dev\\MVC_Final_Project\\Code\\Lampshade\\InventoryManagement.Infrastracture.EFCore\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\David\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\dev\\MVC_Final_Project\\Code\\Lampshade\\0_Framework\\0_Framework.csproj": {
+                "projectPath": "C:\\dev\\MVC_Final_Project\\Code\\Lampshade\\0_Framework\\0_Framework.csproj"
+              },
+              "C:\\dev\\MVC_Final_Project\\Code\\Lampshade\\InventoryManagement.Domain\\InventoryManagement.Domain.csproj": {
+                "projectPath": "C:\\dev\\MVC_Final_Project\\Code\\Lampshade\\InventoryManagement.Domain\\InventoryManagement.Domain.csproj"
+              },
+              "C:\\dev\\MVC_Final_Project\\Code\\Lampshade\\ShopManagement.InfraStructure.EFCore\\ShopManagement.InfraStructure.EFCore.csproj": {
+                "projectPath": "C:\\dev\\MVC_Final_Project\\Code\\Lampshade\\ShopManagement.InfraStructure.EFCore\\ShopManagement.InfraStructure.EFCore.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
     "C:\\dev\\MVC_Final_Project\\Code\\Lampshade\\ServiceHost\\ServiceHost.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -88,6 +840,15 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
+              "C:\\dev\\MVC_Final_Project\\Code\\Lampshade\\01_LampshadeQuery\\01_LampshadeQuery.csproj": {
+                "projectPath": "C:\\dev\\MVC_Final_Project\\Code\\Lampshade\\01_LampshadeQuery\\01_LampshadeQuery.csproj"
+              },
+              "C:\\dev\\MVC_Final_Project\\Code\\Lampshade\\DiscountManagement.Configuration\\DiscountManagement.Configuration.csproj": {
+                "projectPath": "C:\\dev\\MVC_Final_Project\\Code\\Lampshade\\DiscountManagement.Configuration\\DiscountManagement.Configuration.csproj"
+              },
+              "C:\\dev\\MVC_Final_Project\\Code\\Lampshade\\InventoryManagement.Infrastracture.Configure\\InventoryManagement.Infrastracture.Configure.csproj": {
+                "projectPath": "C:\\dev\\MVC_Final_Project\\Code\\Lampshade\\InventoryManagement.Infrastracture.Configure\\InventoryManagement.Infrastracture.Configure.csproj"
+              },
               "C:\\dev\\MVC_Final_Project\\Code\\Lampshade\\ShopManagement.Configuration\\ShopManagement.Configuration.csproj": {
                 "projectPath": "C:\\dev\\MVC_Final_Project\\Code\\Lampshade\\ShopManagement.Configuration\\ShopManagement.Configuration.csproj"
               }
@@ -283,6 +1044,9 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
+              "C:\\dev\\MVC_Final_Project\\Code\\Lampshade\\01_LampshadeQuery\\01_LampshadeQuery.csproj": {
+                "projectPath": "C:\\dev\\MVC_Final_Project\\Code\\Lampshade\\01_LampshadeQuery\\01_LampshadeQuery.csproj"
+              },
               "C:\\dev\\MVC_Final_Project\\Code\\Lampshade\\ShopManagement.Application.Contracts\\ShopManagement.Application.Contracts.csproj": {
                 "projectPath": "C:\\dev\\MVC_Final_Project\\Code\\Lampshade\\ShopManagement.Application.Contracts\\ShopManagement.Application.Contracts.csproj"
               },

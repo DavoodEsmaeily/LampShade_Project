@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\0_Framework\0_Framework.csproj" />
+    <ProjectReference Include="..\DiscountManagement.Application.Contracts\DiscountManagement.Application.Contracts.csproj" />
+    <ProjectReference Include="..\DiscountManagement.Infrastracture.EFCore\DiscountManagement.Infrastracture.EFCore.csproj" />
+    <ProjectReference Include="..\DM.Domain\DM.Domain.csproj" />
+  </ItemGroup>
+
+</Project>

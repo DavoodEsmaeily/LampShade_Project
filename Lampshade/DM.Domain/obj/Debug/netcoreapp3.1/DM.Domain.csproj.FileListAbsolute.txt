@@ -1,0 +1,16 @@
+C:\dev\MVC_Final_Project\Code\Lampshade\DM.Domain\bin\Debug\netcoreapp3.1\DM.Domain.deps.json
+C:\dev\MVC_Final_Project\Code\Lampshade\DM.Domain\bin\Debug\netcoreapp3.1\DM.Domain.dll
+C:\dev\MVC_Final_Project\Code\Lampshade\DM.Domain\bin\Debug\netcoreapp3.1\DM.Domain.pdb
+C:\dev\MVC_Final_Project\Code\Lampshade\DM.Domain\bin\Debug\netcoreapp3.1\0_Framework.dll
+C:\dev\MVC_Final_Project\Code\Lampshade\DM.Domain\bin\Debug\netcoreapp3.1\DiscountManagement.Application.Contracts.dll
+C:\dev\MVC_Final_Project\Code\Lampshade\DM.Domain\bin\Debug\netcoreapp3.1\ShopManagement.Application.Contracts.dll
+C:\dev\MVC_Final_Project\Code\Lampshade\DM.Domain\bin\Debug\netcoreapp3.1\0_Framework.pdb
+C:\dev\MVC_Final_Project\Code\Lampshade\DM.Domain\bin\Debug\netcoreapp3.1\DiscountManagement.Application.Contracts.pdb
+C:\dev\MVC_Final_Project\Code\Lampshade\DM.Domain\bin\Debug\netcoreapp3.1\ShopManagement.Application.Contracts.pdb
+C:\dev\MVC_Final_Project\Code\Lampshade\DM.Domain\obj\Debug\netcoreapp3.1\DM.Domain.csprojAssemblyReference.cache
+C:\dev\MVC_Final_Project\Code\Lampshade\DM.Domain\obj\Debug\netcoreapp3.1\DM.Domain.AssemblyInfoInputs.cache
+C:\dev\MVC_Final_Project\Code\Lampshade\DM.Domain\obj\Debug\netcoreapp3.1\DM.Domain.AssemblyInfo.cs
+C:\dev\MVC_Final_Project\Code\Lampshade\DM.Domain\obj\Debug\netcoreapp3.1\DM.Domain.csproj.CoreCompileInputs.cache
+C:\dev\MVC_Final_Project\Code\Lampshade\DM.Domain\obj\Debug\netcoreapp3.1\DM.Domain.csproj.CopyComplete
+C:\dev\MVC_Final_Project\Code\Lampshade\DM.Domain\obj\Debug\netcoreapp3.1\DM.Domain.dll
+C:\dev\MVC_Final_Project\Code\Lampshade\DM.Domain\obj\Debug\netcoreapp3.1\DM.Domain.pdb

@@ -5,6 +5,11 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Content Remove="wwwroot\Theme\assets\fonts\IranianSans.svg" />
+    <Content Remove="wwwroot\Theme\assets\fonts\IranianSans.woff2" />
+  </ItemGroup>
+
+  <ItemGroup>
     <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="5.0.4">
       <PrivateAssets>all</PrivateAssets>
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
@@ -180,9 +185,14 @@
     <None Include="wwwroot\assets\js\active.js" />
     <None Include="wwwroot\assets\js\ajax-mail.js" />
     <None Include="wwwroot\assets\js\vendors.js" />
+    <None Include="wwwroot\Theme\assets\fonts\IranianSans.svg" />
+    <None Include="wwwroot\Theme\assets\fonts\IranianSans.woff2" />
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\01_LampshadeQuery\01_LampshadeQuery.csproj" />
+    <ProjectReference Include="..\DiscountManagement.Configuration\DiscountManagement.Configuration.csproj" />
+    <ProjectReference Include="..\InventoryManagement.Infrastracture.Configure\InventoryManagement.Infrastracture.Configure.csproj" />
     <ProjectReference Include="..\ShopManagement.Configuration\ShopManagement.Configuration.csproj" />
   </ItemGroup>
 

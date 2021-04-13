@@ -6,4 +6,3 @@ C:\dev\MVC_Final_Project\Code\Lampshade\0_Framework\obj\Debug\netcoreapp3.1\0_Fr
 C:\dev\MVC_Final_Project\Code\Lampshade\0_Framework\obj\Debug\netcoreapp3.1\0_Framework.csproj.CoreCompileInputs.cache
 C:\dev\MVC_Final_Project\Code\Lampshade\0_Framework\obj\Debug\netcoreapp3.1\0_Framework.dll
 C:\dev\MVC_Final_Project\Code\Lampshade\0_Framework\obj\Debug\netcoreapp3.1\0_Framework.pdb
-C:\dev\MVC_Final_Project\Code\Lampshade\0_Framework\obj\Debug\netcoreapp3.1\0_Framework.csprojAssemblyReference.cache

@@ -1,0 +1,14 @@
+C:\dev\MVC_Final_Project\Code\Lampshade\InventoryManagement.Application.Contract\bin\Debug\netcoreapp3.1\InventoryManagement.Application.Contract.deps.json
+C:\dev\MVC_Final_Project\Code\Lampshade\InventoryManagement.Application.Contract\bin\Debug\netcoreapp3.1\InventoryManagement.Application.Contract.dll
+C:\dev\MVC_Final_Project\Code\Lampshade\InventoryManagement.Application.Contract\bin\Debug\netcoreapp3.1\InventoryManagement.Application.Contract.pdb
+C:\dev\MVC_Final_Project\Code\Lampshade\InventoryManagement.Application.Contract\bin\Debug\netcoreapp3.1\0_Framework.dll
+C:\dev\MVC_Final_Project\Code\Lampshade\InventoryManagement.Application.Contract\bin\Debug\netcoreapp3.1\0_Framework.pdb
+C:\dev\MVC_Final_Project\Code\Lampshade\InventoryManagement.Application.Contract\obj\Debug\netcoreapp3.1\InventoryManagement.Application.Contract.csprojAssemblyReference.cache
+C:\dev\MVC_Final_Project\Code\Lampshade\InventoryManagement.Application.Contract\obj\Debug\netcoreapp3.1\InventoryManagement.Application.Contract.AssemblyInfoInputs.cache
+C:\dev\MVC_Final_Project\Code\Lampshade\InventoryManagement.Application.Contract\obj\Debug\netcoreapp3.1\InventoryManagement.Application.Contract.AssemblyInfo.cs
+C:\dev\MVC_Final_Project\Code\Lampshade\InventoryManagement.Application.Contract\obj\Debug\netcoreapp3.1\InventoryManagement.Application.Contract.csproj.CoreCompileInputs.cache
+C:\dev\MVC_Final_Project\Code\Lampshade\InventoryManagement.Application.Contract\obj\Debug\netcoreapp3.1\InventoryManagement.Application.Contract.csproj.CopyComplete
+C:\dev\MVC_Final_Project\Code\Lampshade\InventoryManagement.Application.Contract\obj\Debug\netcoreapp3.1\InventoryManagement.Application.Contract.dll
+C:\dev\MVC_Final_Project\Code\Lampshade\InventoryManagement.Application.Contract\obj\Debug\netcoreapp3.1\InventoryManagement.Application.Contract.pdb
+C:\dev\MVC_Final_Project\Code\Lampshade\InventoryManagement.Application.Contract\bin\Debug\netcoreapp3.1\ShopManagement.Application.Contracts.dll
+C:\dev\MVC_Final_Project\Code\Lampshade\InventoryManagement.Application.Contract\bin\Debug\netcoreapp3.1\ShopManagement.Application.Contracts.pdb

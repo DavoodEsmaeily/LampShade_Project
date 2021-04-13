@@ -1,11 +1,13 @@
 C:\dev\MVC_Final_Project\Code\Lampshade\ShopManagement.Configuration\bin\Debug\netcoreapp3.1\ShopManagement.Configuration.deps.json
 C:\dev\MVC_Final_Project\Code\Lampshade\ShopManagement.Configuration\bin\Debug\netcoreapp3.1\ShopManagement.Configuration.dll
 C:\dev\MVC_Final_Project\Code\Lampshade\ShopManagement.Configuration\bin\Debug\netcoreapp3.1\ShopManagement.Configuration.pdb
+C:\dev\MVC_Final_Project\Code\Lampshade\ShopManagement.Configuration\bin\Debug\netcoreapp3.1\01_LampshadeQuery.dll
 C:\dev\MVC_Final_Project\Code\Lampshade\ShopManagement.Configuration\bin\Debug\netcoreapp3.1\0_Framework.dll
 C:\dev\MVC_Final_Project\Code\Lampshade\ShopManagement.Configuration\bin\Debug\netcoreapp3.1\ShopManagement.Application.Contracts.dll
 C:\dev\MVC_Final_Project\Code\Lampshade\ShopManagement.Configuration\bin\Debug\netcoreapp3.1\ShopManagement.Application.dll
 C:\dev\MVC_Final_Project\Code\Lampshade\ShopManagement.Configuration\bin\Debug\netcoreapp3.1\ShopManagement.Domain.dll
 C:\dev\MVC_Final_Project\Code\Lampshade\ShopManagement.Configuration\bin\Debug\netcoreapp3.1\ShopManagement.InfraStructure.EFCore.dll
+C:\dev\MVC_Final_Project\Code\Lampshade\ShopManagement.Configuration\bin\Debug\netcoreapp3.1\01_LampshadeQuery.pdb
 C:\dev\MVC_Final_Project\Code\Lampshade\ShopManagement.Configuration\bin\Debug\netcoreapp3.1\ShopManagement.Application.Contracts.pdb
 C:\dev\MVC_Final_Project\Code\Lampshade\ShopManagement.Configuration\bin\Debug\netcoreapp3.1\ShopManagement.Application.pdb
 C:\dev\MVC_Final_Project\Code\Lampshade\ShopManagement.Configuration\bin\Debug\netcoreapp3.1\ShopManagement.Domain.pdb

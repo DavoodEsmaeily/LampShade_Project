@@ -1,14 +1,11 @@
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
-using Microsoft.AspNetCore.HttpsPolicy;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using ShopManagement.Configuration;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
+using DiscountManagement.Configuration;
+using InventoryManagement.Infrastracture.Configure;
 
 namespace ServiceHost
 {
@@ -25,7 +22,10 @@ namespace ServiceHost
         public void ConfigureServices(IServiceCollection services)
         {
             var connectionString = Configuration.GetConnectionString("LampshadeDb");
+            DiscountManagementBootstrapper.Configure(services, connectionString);
             ShopManegementBootstraper.Configure(services, connectionString);
+            InventoryManagementBootstrapper.Configure(services, connectionString); 
+            InventoryManagementBootstrapper.Configure(services, connectionString);
             services.AddRazorPages();
         }
 
